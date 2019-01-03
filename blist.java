@@ -3,11 +3,8 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
-/*
-ID:  dreosh
-LANG: JAVA
-TASK: friday
-*/
+//this was a timed contest so I wasn't too concerned with minimizing run-time.
+//if I had more time, I would have most likely searched for the maximum finish time and would have used that instead of 1000 which was the max range.
 
 
 public class blist{
