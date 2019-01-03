@@ -3,11 +3,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
-/*
-ID:  dreosh
-LANG: JAVA
-TASK: friday
-*/
+
 
 public class mixmilk =
 {
